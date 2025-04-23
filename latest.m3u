@@ -13,3 +13,11 @@ http://example.com/stream4.m3u8
 #EXTINF:-1 tvg-id="channeltest" tvg-name="Once" tvg-logo="http://example.com/logo4.png" group-title="Kids",Dummy Channel Five
 http://example.com/stream4.m3u8
 
+
+
+#EXTINF:-1 tvg-id="hukka" tvg-name="Once" tvg-logo="http://example.com/logo4.png" group-title="Kids",Dummy hukka
+http://example.com/stream4.m3u8
+
+
+#EXTINF:-1 tvg-id="hua" tvg-name="Once" tvg-logo="http://example.com/logo4.png" group-title="Kids",Dummy Hukkabnhua
+http://example.com/stream4.m3u8
